@@ -1,4 +1,5 @@
 # open-directory.github.io
+http://open-directory.github.io
 A script generated, open-directory style catalog of data, usually found in other open-directories.
 
 
