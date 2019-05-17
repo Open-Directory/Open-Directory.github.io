@@ -36,8 +36,3 @@ This project is quite simple really. Just a few bash scripts that will semi-auto
 
 ## Stats (Estimated only)
 Total size: 277 GB
-
-
----
-permalink: /index.html
----
