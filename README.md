@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # open-directory.github.io
 http://open-directory.github.io
 
