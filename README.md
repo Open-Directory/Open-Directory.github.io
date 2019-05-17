@@ -33,7 +33,17 @@ The purpose is to create a browsable, open-directory style list of bookmarks, ba
 * No torrents (no seeders = link rot, basically)
 
 ## Contribute
-This project is quite simple really. Just a few bash scripts that will semi-automatically curate the data into directories for us. It isn't a perfectly automated system, but that's what google, palined, and od-database are already for. This is a static index, not a search index. If you'd like to contribute, submit some pull requests with content you'd like added. Make bash scripts that make the process slightly more automated.
+This project is quite simple really. Just a few shell scripts generating HTML files in order to semi-automatically curate the data into directories for us. Sure, it isn't a perfectly automated system, but that's what google, palined, and od-database are already for. This is a static index, not a search index. If you'd like to contribute, here's how:
+
+* If you can write some scripts, please do so.
+* If you can design a template to make the directories look more polished, you're the right man for the job.
+* If you can't code or design, then you can brainstorm and submit some ideas through the issue tracker at the top of this page.
+* Financial Sponsors and Donors:
+  * Hosting the data is done by the source- third party "volunteers," if you will.
+  * Hosting the actual directory pages is done by Microsoft via GitHub.
+  * The cost of the Virtual Private Server I'm running for triggering the scripts, and other general maintenance needs, are being generously covered by Google.
+  * You're welcome to give me your money if you really want to, but I'm not asking for it. If that's what you need to do, open an issue and I'll update this readme with some contact info. :)
+
 
 ## Stats (Estimated only)
 Total size: 277 GB
