@@ -21,6 +21,7 @@ The purpose is to create a browsable, open-directory style list of bookmarks, ba
 * :white_check_mark: Fire up Google Cloud Compute VPS for continual updating
 * :black_square_button: Determine a method for organizing the content so it can be used with `wget`, `aria2`, etc.
 * :black_square_button: Write a master update script that will recurse through other scripts for periodic directory refreshes
+* :black_square_button: Script for programatically combining and de-duping partial or incomplete open directory archives & libraries
 * :black_square_button: Write a script that tracks individual directory sizes.
 * :black_square_button: Make the index pages prettier, while maintaining simplicity. (Add images, Parent Directory links, formatting)
 
